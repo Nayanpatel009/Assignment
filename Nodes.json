@@ -1,0 +1,119 @@
+[
+    {
+        "id": "harry",
+        "name": "Harry Potter",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "description": "The young wizard with a lightning bolt scar.",
+        "totalLinesNumber": 120
+    },
+    {
+        "id": "hermione",
+        "name": "Hermione Granger",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "description": "Harry's clever and resourceful friend.",
+        "totalLinesNumber": 110
+    },
+    {
+        "id": "ron",
+        "name": "Ron Weasley",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "description": "Harry's loyal and humorous friend.",
+        "totalLinesNumber": 105
+    },
+    {
+        "id": "frodo",
+        "name": "Frodo Baggins",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The young hobbit who embarks on a perilous journey.",
+        "totalLinesNumber": 130
+    },
+    {
+        "id": "aragorn",
+        "name": "Aragorn",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The skilled ranger and protector of Frodo.",
+        "totalLinesNumber": 90
+    },
+    {
+        "id": "gandalf",
+        "name": "Gandalf",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The wise wizard guiding the fellowship.",
+        "totalLinesNumber": 95
+    },
+    {
+        "id": "luke",
+        "name": "Luke Skywalker",
+        "movie": "Star Wars: A New Hope",
+        "description": "The young Jedi who battles the Empire.",
+        "totalLinesNumber": 115
+    },
+    {
+        "id": "leia",
+        "name": "Princess Leia",
+        "movie": "Star Wars: A New Hope",
+        "description": "Leader of the Rebel Alliance and Luke's sister.",
+        "totalLinesNumber": 100
+    }
+],
+
+ "edges": [
+    {
+        "source": "harry",
+        "target": "hermione",
+        "interaction": "close_friends"
+    },
+    {
+        "source": "harry",
+        "target": "ron",
+        "interaction": "close_friends"
+    },
+    {
+        "source": "ron",
+        "target": "hermione",
+        "interaction": "close_friends"
+    },
+    {
+        "source": "frodo",
+        "target": "aragorn",
+        "interaction": "travel_companions"
+    },
+    {
+        "source": "frodo",
+        "target": "gandalf",
+        "interaction": "mentorship"
+    },
+    {
+        "source": "aragorn",
+        "target": "legolas",
+        "interaction": "allies"
+    },
+    {
+        "source": "legolas",
+        "target": "gimli",
+        "interaction": "unlikely_friends"
+    },
+    {
+        "source": "luke",
+        "target": "leia",
+        "interaction": "siblings"
+    },
+    {
+        "source": "luke",
+        "target": "vader",
+        "interaction": "father_son"
+    },
+    {
+        "source": "vader",
+        "target": "emperor",
+        "interaction": "master_apprentice"
+    },
+    {
+        "source": "harry",
+        "target": "voldemort",
+        "interaction": "arch_rivals"
+    }
+]
+
+}
+
