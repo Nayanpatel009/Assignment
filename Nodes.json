@@ -1,0 +1,93 @@
+[
+    {
+        "id": "harry",
+        "name": "Harry Potter",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "description": "The young wizard with a lightning bolt scar.",
+        "totalLinesNumber": 120
+    },
+    {
+        "id": "hermione",
+        "name": "Hermione Granger",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "description": "Harry's clever and resourceful friend.",
+        "totalLinesNumber": 110
+    },
+    {
+        "id": "ron",
+        "name": "Ron Weasley",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "description": "Harry's loyal and humorous friend.",
+        "totalLinesNumber": 105
+    }, 
+    {
+        "id": "voldemort",
+        "name": "Lord Voldemort",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "description": "Voldemort is a dark wizard who seeks to dominate the wizarding world and is famously known as Harry Potter's nemesis",
+        "totalLinesNumber": 100
+    }, 
+    {
+        "id": "frodo",
+        "name": "Frodo Baggins",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The young hobbit who embarks on a perilous journey.",
+        "totalLinesNumber": 130
+    },
+    {
+        "id": "aragorn",
+        "name": "Aragorn",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The skilled ranger and protector of Frodo.",
+        "totalLinesNumber": 90
+    },
+    {
+        "id": "gandalf",
+        "name": "Gandalf",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "The wise wizard guiding the fellowship.",
+        "totalLinesNumber": 95
+    },
+    {
+        "id": "luke",
+        "name": "Luke Skywalker",
+        "movie": "Star Wars: A New Hope",
+        "description": "The young Jedi who battles the Empire.",
+        "totalLinesNumber": 115
+    },
+    {
+        "id": "leia",
+        "name": "Princess Leia",
+        "movie": "Star Wars: A New Hope",
+        "description": "Leader of the Rebel Alliance and Luke's sister.",
+        "totalLinesNumber": 100
+    }, 
+    {
+        "id": "legolas",
+        "name": "Legolas",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "Elven archer, allies with Aragorn, unlikely friend of Gimli.",
+        "totalLinesNumber": 100
+    }, 
+    {
+        "id": "gimli",
+        "name": "Gimli",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "Dwarf warrior, Legolas' unlikely friend, part of the Fellowship.",
+        "totalLinesNumber": 100
+    }, 
+    {
+        "id": "vader",
+        "name": " Darth Vader",
+        "movie": "Star Wars: A New Hope",
+        "description": "Sith Lord, Luke's father, apprentice to the Emperor.",
+        "totalLinesNumber": 100
+    }, 
+    {
+        "id": "emperor",
+        "name": "Emperor Palpatine",
+        "movie": "Star Wars: A New Hope",
+        "description": "Sith Master, manipulative leader, Vader's master.",
+        "totalLinesNumber": 100
+    }
+]
