@@ -1,0 +1,31 @@
+id,risk_score,location,industry_type
+1,8,New York,Banking
+2,6,London,Banking
+3,4,San Francisco,Individual
+4,9,Chicago,Technology
+5,5,Paris,Individual
+6,7,Hong Kong,Banking
+7,6,Tokyo,Banking
+8,8,Sydney,Finance
+9,5,Singapore,Banking
+10,7,Beijing,Banking
+11,3,Los Angeles,Individual
+12,6,Mumbai,Banking
+13,5,Dubai,Banking
+14,4,São Paulo,Individual
+15,9,Toronto,Banking
+16,7,Mexico City,Banking
+17,6,Seoul,Banking
+18,8,Berlin,Manufacturing
+19,5,Moscow,Banking
+20,7,Cape Town,Banking
+21,2,Johannesburg,Individual
+22,6,Shanghai,Banking
+23,5,Bangkok,Banking
+24,8,Milan,Banking
+25,9,Sydney,Technology
+26,7,Mexico City,Banking
+27,6,São Paulo,Banking
+28,4,London,Individual
+29,5,New York,Banking
+30,6,Beijing,Banking
